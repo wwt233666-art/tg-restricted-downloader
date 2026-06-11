@@ -1,0 +1,17 @@
+# Session 文件（含登录凭证，切勿上传）
+*.session
+*.session-journal
+
+# 下载的文件
+downloads/*
+!downloads/.gitkeep
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
