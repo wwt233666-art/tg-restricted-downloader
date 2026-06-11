@@ -2,6 +2,9 @@
 *.session
 *.session-journal
 
+# Zip 包纳入版本
+!TG下载器_完整包.zip
+
 # 下载的文件
 downloads/*
 !downloads/.gitkeep
